@@ -1,0 +1,4 @@
+transformers==4.40.1
+openai==1.25.0
+torch==2.3.0
+torchvision==0.18.0
